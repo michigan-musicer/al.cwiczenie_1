@@ -1,3 +1,5 @@
+English-language slidedeck and code files for exericse 1 in AL Basics of Programming class.
+
 # Instructions for class
 
 Download all files in this repository and upload them to a CodeBlocks project. Fill in the blanks in `exercise_1.c`. When you are done, call Kevin over so that he can check your work. (If we run out of time before Kevin can check your work, feel free to send an email to kwang@al.edu.pl with your completed code.)
